@@ -1,0 +1,11 @@
+
+> gram-arogya-frontend@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  VITE v5.4.21  ready in 911 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  press h + enter to show help
+3:23:44 pm [vite] hmr update /src/pages/AiAssistantPage.jsx, /src/index.css
+3:24:00 pm [vite] hmr update /src/components/FloatingAiWidget.jsx, /src/index.css
